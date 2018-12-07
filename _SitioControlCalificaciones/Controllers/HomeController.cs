@@ -8,6 +8,8 @@ using _SitioControlCalificaciones.Models;
 using Microsoft.AspNetCore.Authorization;
 using Newtonsoft.Json;
 
+
+
 namespace _SitioControlCalificaciones.Controllers
 {
     public class HomeController : Controller
@@ -38,6 +40,9 @@ namespace _SitioControlCalificaciones.Controllers
                      * }
                      * else
                      *  return View(model)
+                     *  
+                     *  
+                     *  
                      * 
                      */
                     
@@ -53,6 +58,8 @@ namespace _SitioControlCalificaciones.Controllers
         public IActionResult About()
         {
             ViewData["Message"] = "Your application description page.";
+
+
 
             return View();
         }
