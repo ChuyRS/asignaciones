@@ -4,7 +4,6 @@
     <TargetFramework>netcoreapp2.1</TargetFramework>
     <UserSecretsId>aspnet-_SitioControlCalificaciones-4D926661-C265-4F5F-BF14-427C84BB076F</UserSecretsId>
   </PropertyGroup>
-
   
   <ItemGroup>
     <PackageReference Include="Microsoft.AspNetCore.App" />
