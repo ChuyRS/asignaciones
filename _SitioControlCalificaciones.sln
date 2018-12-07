@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2016
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_SitioControlCalificaciones", "_SitioControlCalificaciones\_SitioControlCalificaciones.csproj", "{26EA46F7-6B3E-4099-8F78-A38A09960987}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{26EA46F7-6B3E-4099-8F78-A38A09960987}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{26EA46F7-6B3E-4099-8F78-A38A09960987}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{26EA46F7-6B3E-4099-8F78-A38A09960987}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{26EA46F7-6B3E-4099-8F78-A38A09960987}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {10851DEA-33C5-46F7-A787-92780095ECFB}
+	EndGlobalSection
+EndGlobal
