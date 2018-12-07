@@ -9,7 +9,7 @@ namespace _SitioControlCalificaciones.Models
 {
     public class LoginViewModel
     {
-        [BindProperty] //Decoracion para enlazar clase de InputModel
+        [BindProperty]
         public InputModel Input { get; set; }
 
         [TempData] //Decora y obtiene los errores en tiempo que ocurre al hacer conexion a la base de datos
